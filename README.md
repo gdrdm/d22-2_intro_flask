@@ -1,2 +1,2 @@
-#Skolas Projekts
+# Skolas Projekts
 ### Autors Jegors Shreks
