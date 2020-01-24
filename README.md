@@ -1,2 +1,2 @@
 # Skolas Projekts
-### Autors Jegors Shreks
+### Autors Jegors Podoinikovs
